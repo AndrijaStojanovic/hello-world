@@ -1,2 +1,3 @@
 # hello-world
-Prvipokusaj
+===============
+Moje ime je Andrija Stojanovic blabla matf.bg.ac.rs
